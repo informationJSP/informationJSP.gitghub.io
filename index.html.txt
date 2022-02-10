@@ -1,1 +1,0 @@
-<script>location.href="C:\Users\User\Documents\GitHub\informationJSP.gitghub.io\HRD_21303\src\main\webapp/index.jsp"</script>
